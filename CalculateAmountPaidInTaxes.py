@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def calculateTax(self, brackets: List[List[int]], income: int) -> float:
         tax = 0
